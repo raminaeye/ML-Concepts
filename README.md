@@ -3,9 +3,9 @@
 ### Author : Ramin Anushiravani
 
 Updates : Sep 10th , 2023
+          July 4th , 2024
 
-
-### Implementation of common ML algorithms in Numpy or Pytorch. This is purley for educational purposes. All notebooks should run propely. I tried my best to implement most of the following models from scratch using numpy or pytroch. 
+     Implementation of common ML algorithms in Numpy or Pytorch. This is purley for educational purposes. All notebooks should run propely. I tried my best to implement most of the following models from scratch using numpy or pytroch. 
 
 ### Models and Algorithms
 
@@ -86,4 +86,4 @@ Updates : Sep 10th , 2023
 
 #### Disclaimer
         
-I used ChatGPT to create definition of the model. You can see the snapshots added to the notebooks. In some cases I used ChatGPT to generate part of the code as well. Although in most cases the code wouldn't run or didn't make sense in many cases it was a good starter. 
+I used ChatGPT to create definition of the model. You can see the snapshots added to the notebooks. In some cases I used ChatGPT to generate part of the code as well. 
