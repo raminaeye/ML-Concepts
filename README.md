@@ -2,7 +2,10 @@
 
 ### Author : Ramin Anushiravani
 
-Updates : Sep 10th , 2023
+Updates : 
+
+          Sep 10th , 2023
+             
           July 4th , 2024
 
      Implementation of common ML algorithms in Numpy or Pytorch. This is purley for educational purposes. All notebooks should run propely. I tried my best to implement most of the following models from scratch using numpy or pytroch. 
