@@ -163,3 +163,4 @@ cython_debug/
 #.idea/
 ./bfg.jar
 ./.git/objects/pack/pack-a8b357ac153afd4492e1c6daa2c4c7ed6babc29f.pack
+*.pt
