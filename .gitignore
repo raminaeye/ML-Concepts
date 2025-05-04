@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.DS_Store
+*.pt
+data/
 *.ipynb_checkpoints
 # C extensions
 *.so
