@@ -1,0 +1,15 @@
+# Dependencies for the ML-Concepts notebooks.
+# Install with: pip install -r requirements.txt
+# Then launch: jupyter notebook (or jupyter lab) from the repo root.
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.6
+seaborn>=0.12
+scikit-learn>=1.3
+scipy>=1.10
+torch>=2.0
+torchvision>=0.15
+# Only needed for notebooks/tasks/Pytorch-Classification.ipynb (AG News demo).
+# Install a torchtext build matching your torch version, e.g.:
+# pip install torchtext  (then check `python -c "from torchtext.datasets import AG_NEWS"`)
+torchtext>=0.15
